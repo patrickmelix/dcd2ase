@@ -1,5 +1,6 @@
-*DEPRECEATED*
-Reading DCD files is now implemented in ASE. This is therefore not needed anymore. Updated the script to use the new ASE
+# *DEPRECEATED*
+
+Reading DCD files is now implemented in [ASE](https://wiki.fysik.dtu.dk/ase/). This is therefore not needed anymore. Updated the script to use the new ASE
 features.
 
 # dcd2ase
